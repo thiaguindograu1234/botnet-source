@@ -1,6 +1,6 @@
 # features
-shell command execution
+shell command execution for windows
 
-DDoS (in testing)
+DDoS (in development)
 
 This is only for educational porpuses!!
