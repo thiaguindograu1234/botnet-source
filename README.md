@@ -1,8 +1,6 @@
-# botnet-source
-
 Yes another botnet in python
 
-#features
+# features
 shell command execution
 DDoS (in testing)
 
